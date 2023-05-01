@@ -138,6 +138,11 @@ p{
       font-size: 5rem;
       color: #000;
   }
+
+  .contactos a:hover{
+    color: #8B1874;
+  }
+
   
   footer{
     background-color: #B71375;
